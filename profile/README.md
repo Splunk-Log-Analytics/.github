@@ -35,7 +35,7 @@ For teams with many sources, Splunk SIEM platform turns scattered events into a 
 - **Visual Dashboards** - Splunk dashboards turn results into charts and alerts.
 - **Lightweight Shippers** - Splunk forwarders collect data at the edge.
 
-![Splunk](https://avatars.mds.yandex.net/i?id=02bb977bfbc3e4ebd841915867e175ec49ea12dd-5288161-images-thumbs&n=13)
+![Splunk](https://habrastorage.org/r/w1560/getpro/habr/upload_files/27a/b0b/776/27ab0b77628e77e97bcdc69a342e5610.png)
 
 ## Quick Start with Splunk
 
